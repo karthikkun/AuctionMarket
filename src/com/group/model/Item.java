@@ -14,6 +14,7 @@ public class Item {
 	}
 	
 	public Item(String seller, String name, int listingID, int lowestBiddingPrice, int biddingDurationMs) {
+		super();
 		this.seller = seller;
 		this.name = name;
 		this.listingID = listingID;

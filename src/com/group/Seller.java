@@ -49,7 +49,6 @@ public class Seller implements Client{
                 return;
             }
 		}
-		
 	}
 
 	public List<String> getItems() {
